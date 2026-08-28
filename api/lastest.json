@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-27",
-  "prev_date": "2026-08-25",
+  "date": "2026-08-28",
+  "prev_date": "2026-08-27",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 360
+      "book_count": 359
     },
     {
       "type": "古风世情",
@@ -76,7 +76,7 @@
     {
       "type": "星光璀璨",
       "url": "api/lastest/%E6%98%9F%E5%85%89%E7%92%80%E7%92%A8.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "女频悬疑",

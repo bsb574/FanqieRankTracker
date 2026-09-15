@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-14",
-  "prev_date": "2026-09-13",
+  "date": "2026-09-15",
+  "prev_date": "2026-09-14",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 359
+      "book_count": 319
     },
     {
       "type": "古风世情",
@@ -36,12 +36,12 @@
     {
       "type": "种田",
       "url": "api/lastest/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "年代",
       "url": "api/lastest/%E5%B9%B4%E4%BB%A3.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "现言脑洞",
